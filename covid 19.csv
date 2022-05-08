@@ -1,0 +1,66 @@
+Customer id,survey filled on,Food Preference,exercise preference,home Quarantine,Covid-19 positive,mental stress level,Financal issue,vistited outside home,dometed money,game played,allowed visitors,triend differetn food
+DH001,4/28/2022,Non-veg,yoga,yes,No,40% to 60%,no,once in a week,no,Ludo,no,yes
+DH002,4/29/2022,Non-veg,dance,yes,No,20% to 40%,not sure,twice in week,yes,Ludo,no,yes
+DH003,4/30/2022,Non-veg,yoga,yes,No,60 % to 80%,yes,preferred online order,no,Ludo,not sure,yes
+DH004,5/1/2022,veg,all above,yes,No,60 % to 80%,no,twice in week,yes,Ludo,yes,no
+DH005,5/2/2022,veg,yoga,No,No,20% to 40%,yes,twice in week,yes,Ludo,no,yes
+DH006,5/3/2022,non of above,dance,not sure,No,40% to 60%,yes,twice in week,yes,Ludo,no,yes
+DH007,5/4/2022,Non-veg,all above,yes,No,80% to 100%,yes,twice in week,yes,Ludo,no,yes
+DH008,5/5/2022,Non-veg,all above,No,No,20% to 40%,yes,once in a week,yes,Ludo,no,yes
+DH009,5/6/2022,Non-veg,yoga,yes,No,40% to 60%,yes,preferred online order,no,Ludo,no,yes
+DH010,5/7/2022,veg,heavy weight,yes,No,40% to 60%,not sure,twice in week,no,cards,no,no
+DH011,5/8/2022,Non-veg,heavy weight,yes,yes,60 % to 80%,no,twice in week,yes,carrom boards,yes,yes
+DH012,5/9/2022,veg,yoga,yes,No,60 % to 80%,yes,preferred online order,yes,cards,no,yes
+DH013,5/10/2022,veg,all above,not sure,No,80% to 100%,not sure,twice in week,yes,Ludo,no,yes
+DH014,5/11/2022,Non-veg,yoga,not sure,not sure,20% to 40%,no,twice in week,yes,Ludo,no,yes
+DH015,5/12/2022,Non-veg,all above,No,No,40% to 60%,not sure,once in a week,yes,Ludo,no,yes
+DH016,5/13/2022,veg,yoga,yes,yes,60 % to 80%,no,twice in week,yes,cards,yes,yes
+DH017,5/14/2022,veg,all above,not sure,No,20% to 40%,no,twice in week,yes,Ludo,no,yes
+DH018,5/15/2022,Non-veg,heavy weight,No,No,20% to 40%,no,twice in week,no,Ludo,no,yes
+DH019,5/16/2022,Non-veg,dance,yes,not sure,40% to 60%,not sure,twice in week,no,Ludo,no,yes
+DH020,5/17/2022,veg,yoga,yes,No,20% to 40%,no,twice in week,no,carrom boards,yes,no
+DH021,5/18/2022,Non-veg,dance,yes,yes,60 % to 80%,not sure,once in a week,no,Ludo,no,yes
+DH022,5/19/2022,Non-veg,yoga,yes,No,60 % to 80%,no,preferred online order,yes,carrom boards,no,yes
+DH023,5/20/2022,veg,dance,No,No,20% to 40%,yes,preferred online order,yes,Ludo,no,yes
+DH024,5/21/2022,Non-veg,yoga,yes,No,60 % to 80%,not sure,preferred online order,yes,,no,yes
+DH025,5/22/2022,veg,all above,,No,60 % to 80%,yes,once in a week,yes,Ludo,no,yes
+DH026,5/23/2022,Non-veg,yoga,yes,yes,20% to 40%,yes,once in a week,yes,carrom boards,not sure,no
+DH027,5/24/2022,Non-veg,dance,No,No,,no,twice in week,yes,Ludo,no,yes
+DH028,5/25/2022,Non-veg,dance,No,No,40% to 60%,no,twice in week,yes,Ludo,no,yes
+DH029,5/26/2022,veg,all above,yes,No,20% to 40%,no,once in a week,no,Ludo,no,yes
+DH030,5/27/2022,veg,all above,not sure,not sure,20% to 40%,yes,preferred online order,yes,chess,no,no
+DH031,5/28/2022,veg,yoga,yes,No,20% to 40%,no,once in a week,yes,Ludo,no,yes
+DH032,5/29/2022,veg,yoga,No,yes,60 % to 80%,not sure,twice in week,yes,Ludo,no,not sure
+DH033,5/30/2022,veagon,dance,No,No,40% to 60%,yes,once in a week,yes,carrom boards,yes,yes
+DH034,5/31/2022,veg,dance,No,No,40% to 60%,no,once in a week,no,Ludo,no,yes
+DH035,6/1/2022,Non-veg,all above,No,No,20% to 40%,yes,once in a week,yes,carrom boards,no,yes
+DH036,6/2/2022,veg,,not sure,No,40% to 60%,no,preferred online order,yes,cards,yes,yes
+DH037,6/3/2022,veg,dance,No,No,40% to 60%,yes,twice in week,yes,Ludo,no,yes
+DH038,6/4/2022,veg,heavy weight,yes,No,40% to 60%,yes,twice in week,yes,carrom boards,yes,no
+DH039,6/5/2022,Non-veg,yoga,not sure,not sure,60 % to 80%,not sure,once in a week,yes,cards,no,no
+DH040,6/6/2022,Non-veg,heavy weight,yes,yes,80% to 100%,yes,twice in week,yes,cards,yes,yes
+DH041,6/7/2022,veg,yoga,No,No,60 % to 80%,no,twice in week,no,Ludo,no,no
+DH042,6/8/2022,veg,yoga,yes,yes,60 % to 80%,no,twice in week,no,Ludo,no,no
+DH043,6/9/2022,veg,all above,yes,No,40% to 60%,yes,once in a week,yes,cards,no,yes
+DH044,6/10/2022,Non-veg,heavy weight,yes,yes,20% to 40%,yes,twice in week,yes,cards,yes,yes
+DH045,6/11/2022,veg,all above,yes,No,20% to 40%,yes,once in a week,yes,,not sure,yes
+DH046,6/12/2022,Non-veg,yoga,yes,No,60 % to 80%,no,twice in week,yes,carrom boards,no,yes
+DH047,6/13/2022,Non-veg,yoga,No,No,60 % to 80%,no,twice in week,yes,carrom boards,no,yes
+DH048,6/14/2022,veg,all above,No,No,40% to 60%,yes,preferred online order,no,Ludo,no,yes
+DH049,6/15/2022,non of above,all above,not sure,not sure,20% to 40%,not sure,preferred online order,no,Ludo,no,no
+DH050,6/16/2022,veg,,,No,40% to 60%,yes,twice in week,yes,cards,not sure,not sure
+DH051,6/17/2022,Non-veg,yoga,No,No,40% to 60%,no,twice in week,yes,Ludo,no,no
+DH052,6/18/2022,Non-veg,heavy weight,No,No,80% to 100%,no,preferred online order,yes,cards,no,yes
+DH053,6/19/2022,Non-veg,dance,not sure,yes,60 % to 80%,yes,twice in week,yes,carrom boards,no,yes
+DH054,6/20/2022,veg,yoga,No,yes,40% to 60%,no,once in a week,yes,cards,yes,yes
+DH055,6/21/2022,Non-veg,all above,No,No,60 % to 80%,yes,once in a week,yes,cards,no,yes
+DH056,6/22/2022,Non-veg,dance,No,No,20% to 40%,yes,once in a week,no,chess,no,yes
+DH057,6/23/2022,Non-veg,yoga,No,No,20% to 40%,no,twice in week,yes,Ludo,yes,yes
+DH058,6/24/2022,veg,all above,No,No,60 % to 80%,no,twice in week,no,Ludo,no,yes
+DH059,6/25/2022,veg,all above,No,No,20% to 40%,no,once in a week,no,Ludo,no,yes
+DH060,6/26/2022,Non-veg,dance,not sure,No,60 % to 80%,yes,once in a week,yes,Ludo,no,yes
+DH061,6/27/2022,veg,yoga,No,No,40% to 60%,no,once in a week,yes,chess,no,yes
+DH062,6/28/2022,veg,yoga,yes,No,60 % to 80%,yes,preferred online order,yes,Ludo,no,yes
+DH063,6/29/2022,Non-veg,dance,yes,No,40% to 60%,no,twice in week,yes,cards,no,yes
+DH064,6/30/2022,veg,dance,No,No,40% to 60%,not sure,once in a week,yes,Ludo,no,yes
+DH065,7/1/2022,Non-veg,dance,yes,No,80% to 100%,not sure,twice in week,yes,carrom boards,no,yes
